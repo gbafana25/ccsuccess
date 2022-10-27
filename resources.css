@@ -4,4 +4,14 @@ html {
 
 .list {
 	list-style-type: none;
+	text-align: center;
+}
+
+.item {
+	padding-top: 2%;
+}
+
+.description {
+	font-size: 70%;
+	padding-bottom: 5%;
 }
