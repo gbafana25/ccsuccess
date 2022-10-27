@@ -1,5 +1,7 @@
 html {
 	background-color: rgb(220, 245, 245);
+	font-family: monospace;
+	font-size: 170%;
 }
 
 .heading {

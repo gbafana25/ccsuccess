@@ -1,0 +1,17 @@
+html {
+	background-color: rgb(183, 207, 235);
+	font-family: monospace;
+}
+
+.title {
+	font-size: 400%;
+	padding-left: 25%;
+}
+
+.points {
+	font-size: 140%;		
+}
+
+.item {
+	padding: 5%;
+}
